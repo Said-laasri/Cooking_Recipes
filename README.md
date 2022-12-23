@@ -1,59 +1,94 @@
-# Cook_Book
+# 📗 Table of Contents
 
-The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app allows you to make them public
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Exotic Rentals ](#-exotic-rentals--)
+  - [Backend](#backend)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-Things you may want to cover:
+# 📖 The Recipe app <a name="about-project"></a>
 
-# Ruby version
+The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have, and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app allows you to make them public
 
-`ruby 3.1.2`
+## 🛠 Built With <a name="built-with"></a>
 
-# System dependencies
+### Tech Stack <a name="tech-stack"></a>
 
-- Node
-- Ruby
-- Rails
-- Git
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">Ruby</a></li>
+    <li><a href="https://nextjs.org/">Ruby 0n Rails</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="https://aos.com/">Css</a></li>
+    <li><a href="https://remixicon.com/">Html</a></li>
+  </ul>
+</details>
 
-# Configuration
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- **Run app**
-  - `rails server`
+## 💻 Getting Started <a name="getting-started"></a>
 
-# Database creation
+To get a local copy up and running, follow these steps.
 
-- `create database Cook_Book`
+### Prerequisites
 
-# How to run the test suite
+In order to run this project you need:
 
-- Ruby linter test: `rubocop`
-- Style linter test: ``npx stylelint "\*_/_.{css,scss}"
+### Setup
 
-# How to run tests
+Clone this repository to your desired folder:
 
-- Use Rspec gem to test our code.
-- You can run those tests locally if you follow the steps:
-  - install all the gems running : `bundle install`
-  - to run the file use : `rails server`
-  - and then run: `rspec`.
+```sh
+  cd my-folder
+  git clone git@github.com
+```
 
-### Testing
+### Install
 
-In order to run tests for this project make sure you have installed all previously mentioned [prerequisites](#prerequisites) section, then run the code below.
+Install this project with:
 
-- Run all tests
-  - This should run all tests using 'RSpec-Rails' and (in some cases) 'Capybara'
-  ```sh
-  bundle exec rspec
-  ```
+```sh
+  cd nicholas-portfolio
+  yarn install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm run dev
+```
+
+### Deployment
+
+You can deploy this project using:
+
+```sh
+  git push main
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Author <a name="author"></a>
 
 ## Authors
-
-👤 **Aleksandra Ujvari**
-
-- GitHub: [@digia3d](https://github.com/digia3d)
-- LinkedIn: [Aleksandra (Digital Marketing A3D) Ujvari](https://www.linkedin.com/in/aleksandra-ujvari-85235a210/)
-- Twitter: [@ujvari65](https://twitter.com/ujvari65)
 
 👤 **Said laasri**
 
@@ -61,22 +96,44 @@ In order to run tests for this project make sure you have installed all previous
 - Twitter: [@saidlaasr](https://twitter.com/saidlaasr)
 - LinkedIn: [SAID LAASRI](https://www.linkedin.com/in/said-laasri-8a4367172/)
 
-## 🤝 Contributing
+👤 **aleksandra-ujvari**
+
+- GitHub: [@digia3d](https://github.com/digia3d)
+- Twitter: [@ujvari65](https://twitter.com/ujvari65)
+- LinkedIn: [Aleksandra (Digital Marketing A3D) Ujvari](https://www.linkedin.com/in/aleksandra-ujvari-85235a210/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **I will add a feature for a new project.**
+- [ ] **I will add some animations.**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/digia3d/Cook-Book/issues).
+Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+If you like this project consider giving it a star ⭐️.
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This project is [MIT](./MIT.md) licensed.
+I would like to thank Microverse for giving me the opportunity to work on this project.
+
+- LazyCoders
+- Coding Partners
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
