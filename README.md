@@ -34,7 +34,6 @@ The Recipe app keeps track of all your recipes, ingredients, and inventory. It w
   <ul>
     <li><a href="https://reactjs.org/">Ruby</a></li>
     <li><a href="https://nextjs.org/">Ruby 0n Rails</a></li>
-    <li><a href="#">CSS</a></li>
     <li><a href="https://aos.com/">Css</a></li>
     <li><a href="https://remixicon.com/">Html</a></li>
   </ul>
@@ -64,8 +63,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd nicholas-portfolio
-  yarn install
+  bundle install
 ```
 
 ### Usage
@@ -73,7 +71,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  npm run dev
+  rails server
 ```
 
 ### Deployment
